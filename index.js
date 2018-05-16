@@ -1,7 +1,6 @@
 // Set the dataSet to data intially
 var filteredData = dataSet;
 
-
 // Load List Function=>Splitting the results into appropriate pages
 function LoadList(){
 
@@ -9,7 +8,6 @@ function LoadList(){
   renderTable(filteredData);
 
 }
-
 
 function applyfilters(filteredData){
   var filterDate = $dateInput.value.trim();
