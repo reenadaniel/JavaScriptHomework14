@@ -1,4 +1,4 @@
-avaScript and DOM Manipulation
+JavaScript and DOM Manipulation
 
 ## Background
 
